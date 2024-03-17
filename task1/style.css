@@ -120,6 +120,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 60px;
+    flex-wrap: wrapgit;
     margin-top: 50px;
   }
 
